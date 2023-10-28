@@ -1,4 +1,7 @@
 # slideshow.py
+
+https://github.com/superpeachman/slideshow.py/assets/598922/2154dbc6-d8e3-4f5c-bd79-bb21cf5d9705
+
 An example that creates a "slide show (connect many sequential number image files by fade-in and fade-out)" using [MoviePy](https://zulko.github.io/moviepy/).
 
 [https://stackoverflow.com/questions/5967500/how-to-correctly-sort-a-string-with-a-number-inside](https://stackoverflow.com/questions/5967500/how-to-correctly-sort-a-string-with-a-number-inside)
